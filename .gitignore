@@ -1,6 +1,7 @@
 dbtlearn/package-lock.yml
 dbtlearn/target/
 dbtlearn/dbt_packages/
+dbtlearn/logs
 
 archive
 dbt_dagster_project/tmp*
